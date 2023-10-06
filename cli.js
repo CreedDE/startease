@@ -19,6 +19,7 @@ import { createFrontendProject } from "./src/utils/create-frontend-project.js";
 
 const toolName = "StartEase";
 const jsBackendStacks = ["expressjs", "nestjs"];
+const test = "";
 
 program.version("1.0.0").description("StartEase CLI");
 
